@@ -12,6 +12,9 @@ media
 # Backup files # 
 *.bak 
 
+# Redis caches#
+dump.rdb
+
 # If you are using PyCharm # 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -139,3 +142,4 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+.vscode
