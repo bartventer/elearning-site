@@ -25,7 +25,7 @@ dump.rdb
 
 # AWS User-specific
 .idea/**/aws.xml
-elearningsite-key.pem
+educa-key.pem
 
 # Generated files
 .idea/**/contentModel.xml
