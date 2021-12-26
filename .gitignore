@@ -7,7 +7,6 @@ api_tests/
 *.pyc
 __pycache__
 db.sqlite3
-media
 
 # Backup files # 
 *.bak 
@@ -26,6 +25,7 @@ dump.rdb
 # AWS User-specific
 .idea/**/aws.xml
 educa-key.pem
+educa-key.ppk
 
 # Generated files
 .idea/**/contentModel.xml
