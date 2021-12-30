@@ -1,5 +1,8 @@
 # Local Folder #
 api_tests/
+logs
+ssl
+static
 
 # Django #
 *.log
