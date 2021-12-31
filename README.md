@@ -54,8 +54,8 @@ First, some subjects need to be created.
 Creating content as an instructor is done at the following uri: ''http://domain_name/course/mine/''
 
 1. Create a new course
-![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/5.png?raw=true)
-![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/6.png/?raw=true)
+![](https://github.com/bartventer/elearning-site/blob/master/educa/media/5.png?raw=true)
+![](https://github.com/bartventer/elearning-site/blob/master/educa/media/6.png?raw=true)
 
 2. Create course modules
 ![](https://github.com/bartventer/elearning-site/blob/master/educa/media/7.png?raw=true)
