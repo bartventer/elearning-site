@@ -44,7 +44,7 @@ First, some subjects need to be created.
  Creating the instructors group and assigning read & write permission for courses, modules and contents.
 
 - Instructors group permissions
-![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/1.%20127.0.0.1_8000_admin_auth_group_.png?raw=true)
+![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/1.png?raw=true)
 ![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/2.%20127.0.0.1_8000_admin_auth_group_1_change_.png?raw=true)
 - Assign instructor permission to a user
 ![enter image description here](https://github.com/bartventer/elearning-site/blob/master/educa/media/3.%20127.0.0.1_8000_admin_auth_group_1_change_.png?raw=true)
